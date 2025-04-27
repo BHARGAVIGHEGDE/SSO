@@ -1,0 +1,6 @@
+@ssobackend_HostAddress = http://localhost:5009
+
+GET {{ssobackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

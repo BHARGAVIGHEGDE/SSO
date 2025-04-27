@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a8V1DbNFuQsUwQ92mQoHjKMk9wziZGNyOkzCKg+bA2g=",
+  "Source": "ssobackend",
+  "BasePath": "_content/ssobackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
